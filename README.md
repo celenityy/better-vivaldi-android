@@ -4,6 +4,7 @@ My recommendations for the ultimate configuration of the Vivaldi Browser on Andr
 
 **NOTE:** This project can be found on both [Codeberg](https://codeberg.org/Magnesium1062/better-vivaldi-android), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/Retold3202/better-vivaldi-android).
 
+**NOTE:** This is specifically tailored for Vivaldi on Android. For Desktop, see [here](https://codeberg.org/Magnesium1062/better-vivaldi).
 
 # General -> Search engine
 
